@@ -18,6 +18,9 @@
 
 <h2>Tech Stack</h2>
 <p>
+  <a href="https://dotnet.microsoft.com/en-us/">
+    <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
+  </a>
   <a href="https://nodejs.org/en/">
     <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
   </a>
@@ -42,11 +45,14 @@
   <a href="https://tailwindcss.com/">
     <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   </a>
-  <a href="[https://www.postgresql.org](https://www.atlassian.com/software/jira)">
+  <a href="https://www.atlassian.com/software/jira">
     <img src="https://img.shields.io/badge/Jira-316192?style=for-the-badge&logo=jira&logoColor=white" />
   </a>
   <a href="https://www.mysql.com/">
     <img src="https://img.shields.io/badge/MySQL-07405E?style=for-the-badge&logo=mysql&logoColor=white" />
+  </a>
+  <a href="https://www.postgresql.org/">
+    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
   </a>
   <a href="https://www.docker.com">
     <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
@@ -59,5 +65,5 @@
   </a>
   <a href="https://git-scm.com">
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  </a>
+  </a>  
 </p>
