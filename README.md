@@ -16,7 +16,7 @@
   <img src="https://img.shields.io/badge/Find me on LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<h2>Tech Stacks</h2>
+<h2>Tech Stack</h2>
 <p>
   <a href="https://nodejs.org/en/">
     <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
