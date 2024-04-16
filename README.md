@@ -2,7 +2,7 @@
 
 <p>My name is Daniel Sousa Duplat, a Software Developer passionate about coding, solving problems, game development and learning new things</p>
 
-- 💻 Currently I am working with web applications for hospitals and clinics using Typescript, JavaScript, VueJs and C# with .Net for REST API's
+- 💻 Currently I am working on learning computer graphics using the Unity Engine for game development and finishing my Computer Engineering degree.
 
 - ✍️ I am also studying front end and computer graphics technologies, architecture and best practices.
 
